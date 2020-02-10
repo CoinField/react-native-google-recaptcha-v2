@@ -29,5 +29,8 @@
 		"react": "*",
 		"react-native": "*",
 		"react-native-modal": "^11.0.1"
+	},
+	"dependencies": {
+		"react-native-webview": "^8.0.6"
 	}
 }
